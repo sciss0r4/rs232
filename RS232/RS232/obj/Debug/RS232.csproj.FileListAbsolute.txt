@@ -1,0 +1,7 @@
+C:\Users\kryst\Downloads\everdark-bd_proj_ksdml-2011fd19c422\everdark-bd_proj_ksdml-2011fd19c422\RS232\RS232\bin\Debug\RS232.exe.config
+C:\Users\kryst\Downloads\everdark-bd_proj_ksdml-2011fd19c422\everdark-bd_proj_ksdml-2011fd19c422\RS232\RS232\obj\Debug\RS232.csprojResolveAssemblyReference.cache
+C:\Users\kryst\Downloads\everdark-bd_proj_ksdml-2011fd19c422\everdark-bd_proj_ksdml-2011fd19c422\RS232\RS232\obj\Debug\RS232.Form1.resources
+C:\Users\kryst\Downloads\everdark-bd_proj_ksdml-2011fd19c422\everdark-bd_proj_ksdml-2011fd19c422\RS232\RS232\obj\Debug\RS232.Konfiguracja.resources
+C:\Users\kryst\Downloads\everdark-bd_proj_ksdml-2011fd19c422\everdark-bd_proj_ksdml-2011fd19c422\RS232\RS232\obj\Debug\RS232.Modbus.resources
+C:\Users\kryst\Downloads\everdark-bd_proj_ksdml-2011fd19c422\everdark-bd_proj_ksdml-2011fd19c422\RS232\RS232\obj\Debug\RS232.Properties.Resources.resources
+C:\Users\kryst\Downloads\everdark-bd_proj_ksdml-2011fd19c422\everdark-bd_proj_ksdml-2011fd19c422\RS232\RS232\obj\Debug\RS232.csproj.GenerateResource.Cache
